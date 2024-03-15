@@ -17,9 +17,9 @@
 
 ### 项目导师
 
-马郡
+任明帅
 
-- email: majun65@huawei.com
+- email: renmingshuai@huawei.com
 
 ### 难度
 
